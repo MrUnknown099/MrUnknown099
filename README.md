@@ -1,9 +1,6 @@
-<h1 align="center">Hi 👋, I'm Aniket Sudan</h1>
-<h3 align="center">Full-Stack Engineer | Cyber Security | AI</h3>
-
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Building+My+AI+Agent;Full-Stack+Web+Development;Cyber+Security+Enthusiast;Exploring+AI+%26+Database+Optimization" alt="Typing SVG" />
+  <a href="https://aniket-sudan-portfolio.netlify.app/">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&width=700&height=120&lines=>_+Hello,+I'm+Aniket+Sudan+_;>_+Full-Stack+Software+Engineer+_;>_+Exploring+Cyber+Security+_;>_+Initializing+AI+Agent...+_" alt="Terminal Typing SVG" style="border-radius: 10px;" />
   </a>
 </div>
 
@@ -85,6 +82,14 @@
   <a href="https://github.com/mrunknown099/aniket-sudan-portfolio">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=mrunknown099&repo=aniket-sudan-portfolio&bg_color=000000&title_color=ffffff&text_color=9ca3af&icon_color=ffffff&border_color=333333" alt="Portfolio Repo" />
   </a>
+</div>
+
+---
+
+### 💡 Daily Programming Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&bg_color=000000&text_color=ffffff&quote_color=9ca3af&author_color=ffffff" alt="Programming Quote" />
 </div>
 
 <br />
