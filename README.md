@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="[https://github-readme-streak-stats.herokuapp.com/](https://capsule-render.vercel.app/api?)type=waving&color=0:0D1117,50:00BFFF,100:0077FF&height=260&section=header&text=Hi%20there,%20I'm%20Aniket%20Sudan!&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Engineer%20%7C%20Backend%20%7C%20Cyber%20Security%20%7C%20AI&descAlignY=58&descSize=20&descColor=36BCF7" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00BFFF,100:0077FF&height=260&section=header&text=Hi%20there,%20I'm%20Aniket%20Sudan!&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Engineer%20%7C%20Backend%20%7C%20Cyber%20Security%20%7C%20AI&descAlignY=58&descSize=20&descColor=36BCF7" width="100%" />
 
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Building+My+AI+Agent+%F0%9F%A4%96;Full-Stack+Web+Development+%F0%9F%92%BB;Backend+Engineering+%E2%9A%99%EF%B8%8F;Cyber+Security+Enthusiast+%F0%9F%94%90;Exploring+AI+%26+System+Design+%F0%9F%A7%A0;Building+%E2%80%A2+Learning+%E2%80%A2+Breaking+%E2%80%A2+Improving+%F0%9F%9A%80" alt="Typing SVG" />
